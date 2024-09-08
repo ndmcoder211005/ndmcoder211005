@@ -4,4 +4,4 @@ Hard Skill: Data Structure And Algorithm (C/C++, Python), Machine Learning, Deep
 ## 📫 How to contact me: 
 [![Linkedin] LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-%C4%91%E1%BB%A9c-m%E1%BA%A1nh-879b04302/) [![GitHub] GitHub](https://github.com/ndmcoder211005/)
 
-![Manh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Duc Manh's github stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenducmanh)](https://github.com/nguyenducmanh/github-readme-stats)
