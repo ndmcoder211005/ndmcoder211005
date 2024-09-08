@@ -3,7 +3,7 @@ My name is Nguyen Duc Manh. I am an  in Information Technology, majoring in Arti
 Hard Skill: Data Structure And Algorithm (C/C++, Python), Machine Learning, Deep Learning (CV).<br>
 ## 📫 Contact me at: ndm211005@gmail.com
 
-### My stats 
+### My stats 👁️‍🗨️
 
 <div align="center">
 <img alt="Duc Manh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyenducmanh&show_icons=true&theme=transparent"/>
