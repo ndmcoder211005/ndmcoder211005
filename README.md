@@ -6,7 +6,7 @@ Hard Skill: Data Structure And Algorithm (C/C++, Python, Java), SQL, Machine Lea
 ### My stats 👁️‍🗨️
 
 <div align="left">
-<img alt="Duc Manh's GitHub stats" src="[https://github-readme-stats.vercel.app/api?username=nguyenducmanh&show_icons=true&theme=transparent](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngducmanh21&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)"/>
+<img alt="Duc Manh's GitHub stats" src="[[https://github-readme-stats.vercel.app/api?username=nguyenducmanh&show_icons=true&theme=transparent](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngducmanh21&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngducmanh21&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenducmanh&layout=compact&&langs_count=8"/>
 </div>
 
