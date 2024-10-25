@@ -10,7 +10,7 @@ Hard Skill: Data Structure And Algorithm (C/C++, Python, Java), SQL, Machine Lea
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenducmanh&layout=compact&&langs_count=8"/>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngducmanh21&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngducmanh21&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngducmanh21&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ngducmanh21&theme=github&utcOffset=8)
