@@ -5,10 +5,7 @@ Hard Skill: Data Structure And Algorithm (C/C++, Python, Java), SQL, Machine Lea
 
 ### My stats 👁️‍🗨️
 
-<div align="left">
 ![Duc Manh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngducmanh21&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenducmanh&layout=compact&&langs_count=8"/>
-</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngducmanh21&theme=blue_green)
 
